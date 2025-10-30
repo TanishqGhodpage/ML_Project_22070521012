@@ -71,7 +71,7 @@ You must have Python 3.8 (or newer) and `pip` installed on your system.
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/your_username/your_project_name.git](https://github.com/your_username/your_project_name.git)
+    git clone  https://github.com/TanishqGhodpage/ML_Project_22070521012
     cd your_project_name
     ```
 
