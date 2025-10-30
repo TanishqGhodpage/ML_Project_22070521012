@@ -1,0 +1,8 @@
+torchvision>=0.15.0
+fastai>=2.7.0
+streamlit>=1.28.0
+pillow>=10.0.0
+matplotlib>=3.5.0
+numpy>=1.24.0
+scikit-learn>=1.0.0
+gdown>=4.0.0
